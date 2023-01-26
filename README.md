@@ -1,17 +1,19 @@
+<div style="background-color: white;"style="background-color: white;">
+
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Kaushan+Script&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=George+Lopez" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Solitreo&weight=600&size=30&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=George+Lopez" alt="Typing SVG" /></a>
 </div>
 
-<h2 align="center"> About Me </h2>
+<h2 align="center" style="color: black;"> About Me </h2>
 
-<p align="center">
-First-class mathematics graduate from the University of Nottingham.
+<p align="center"  style="color: black;">
+    First-class mathematics graduate from the University of Nottingham.
 </p>
-<p align="center">
+<p align="center" style="color: black;">
     Experienced in programming languages and technologies related to software and data engineering.
 </p>
 
-<h2 align="center"> Tech Stack </h2>
+<h2 align="center"  style="color: black;"> Tech Stack </h2>
 
 <div align="center">
     <a>
@@ -45,9 +47,9 @@ First-class mathematics graduate from the University of Nottingham.
     <img src="SVG/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png" alt="example badge" width = "40px">
     </a>    
 
-<h2 align="center"> Connect with me </h2>
+<h2 align="center" style="color: black;"> Connect with me </h2>
 
-<p align="center">
+<p align="center" style="color: black;">
 
  <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/george-benjamin-lopez/">
@@ -55,5 +57,5 @@ First-class mathematics graduate from the University of Nottingham.
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/georgelopez7">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
       </div>
-
 </p>
+
