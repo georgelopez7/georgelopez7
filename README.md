@@ -10,9 +10,6 @@ First-class mathematics graduate from the University of Nottingham.
 <p align="center">
     Experienced in programming languages and technologies related to software and data engineering.
 </p>
-<p align="center">
-    Eager to apply knowledge and skills to make an impact in the technology industry.
-</p>
 
 <h2 align="center"> Tech Stack </h2>
 
