@@ -1,12 +1,14 @@
-<h2 align="center"> George Lopez </h2>
-<h2 align="center"> About Me </h2>
-
-<h3 align="center">
-First-class mathematics graduate from the University of Nottingham.
-</h3>
-<h3 align="center">
-    Experienced in programming languages and technologies related to software and data engineering.
-</h3>
+<h2 align="center"> George Lopez
+	<h3 align="center">
+		About Me
+	</h3>
+	<p align="center">
+	First-class mathematics graduate from the University of Nottingham.
+	</p>
+	<p align="center">
+    		Experienced in programming languages and technologies related to software and data engineering.
+	</p>
+</h2>
 
 <h2 align="center"> Tech Stack </h2>
 
