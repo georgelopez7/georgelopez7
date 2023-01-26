@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 <h2 align="center" style="color: black;"> About Me </h2>
 
 <p align="center"  style="color: black;">
