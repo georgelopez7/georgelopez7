@@ -31,21 +31,21 @@
         <td>Matlab</td>
     </tr>
     <tr align="center">
-        <td>--</td>
+        <td><img src="SVG/icons8-power-bi.svg" width=40></td>
         <td><img src="SVG/git-icon.svg" width=40></td>
         <td><img src="SVG/snowflake-icon.svg" width=40></td>
         <td><img src="SVG/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png"
          width=40></td>
         <td><img src="SVG/neo4j.svg" width=40></td>
-        <td>--</td>
+        <td><img src="SVG/icons8-tableau-software.svg" width=40></td>
     </tr>
     <tr align="center">
-        <td>--</td>
+        <td>Power BI</td>
         <td>Git</td>
         <td>Snowflake</td>
         <td>MongoDB</td>
         <td>Neo4j</td>
-        <td>--</td>
+        <td>Tableau</td>
     </tr>
     </table>
 
