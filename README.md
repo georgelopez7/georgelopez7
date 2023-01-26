@@ -49,7 +49,7 @@ First-class mathematics graduate from the University of Nottingham.
     </a>    
 
 
-<h3 align="center" > Connect with me </h3>
+<h2 align="center"> Tech Stack </h2>
 
 <p align="center">
 
