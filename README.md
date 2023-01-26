@@ -12,7 +12,7 @@
 
 <h2 align="center"> Tech Stack </h2>
 
-<div align="center">
+div align="center">
     <table>
     <tr align="center">
         <td><img src="SVG/python.svg" width=40></td>
@@ -36,7 +36,7 @@
         <td><img src="SVG/snowflake-icon.svg" width=40></td>
         <td><img src="SVG/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png"
          width=40></td>
-        <td><img src="SVG/neo4j.svg" width=40></td>
+        <td><img src="SVG/favicon_base_3.png" width=40></td>
         <td><img src="SVG/icons8-tableau-software.svg" width=40></td>
     </tr>
     <tr align="center">
