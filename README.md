@@ -41,10 +41,12 @@ First-class mathematics graduate from the University of Nottingham.
         <td>--</td>
     </tr>
     <tr align="center">
-        <td>Neo4j</td>
+        <td>--</td>
         <td>Git</td>
         <td>Snowflake</td>
         <td>MongoDB</td>
+        <td>Neo4j</td>
+        <td>--</td>
     </tr>
     </table>
 
