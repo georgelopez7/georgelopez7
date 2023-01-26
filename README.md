@@ -12,7 +12,7 @@
 
 <h2 align="center"> Tech Stack </h2>
 
-div align="center">
+<div align="center">
     <table>
     <tr align="center">
         <td><img src="SVG/python.svg" width=40></td>
