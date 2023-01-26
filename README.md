@@ -1,5 +1,4 @@
 <h2 align="center"> George Lopez </h2>
-
 <h2 align="center"> About Me </h2>
 
 <h3 align="center">
