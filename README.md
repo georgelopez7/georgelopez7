@@ -48,8 +48,7 @@ First-class mathematics graduate from the University of Nottingham.
     <img src="SVG/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png" alt="example badge" width = "40px">
     </a>    
 
-
-<h2 align="center"> Tech Stack </h2>
+<h2 align="center"> Connect with me </h2>
 
 <p align="center">
 
