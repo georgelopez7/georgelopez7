@@ -1,15 +1,15 @@
 <div align="center"  >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Kaushan+Script&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=George+Lopez" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Kaushan+Script&weight=600&size=30&duration=4000&pause=1000&color=658249&background=FFFFFF00&center=true&vCenter=true&width=435&lines=George+Lopez" alt="Typing SVG" /></a>
 </div>
 
 <h2 align="center"> About Me </h2>
 
-<p align="center">
+<h3 align="center">
 First-class mathematics graduate from the University of Nottingham.
-</p>
-<p align="center">
+</h3>
+<h3 align="center">
     Experienced in programming languages and technologies related to software and data engineering.
-</p>
+</h3>
 
 <h2 align="center"> Tech Stack </h2>
 
@@ -19,7 +19,7 @@ First-class mathematics graduate from the University of Nottingham.
         <td><img src="SVG/python.svg" width=40></td>
         <td><img src="SVG/postgresql.svg" width=40></td>
         <td><img src="SVG/html-5.svg" width=40></td>
-        <td><img src="SVG/flask.svg" width=40></td>
+        <td><img src="SVG/icons8-flask-white-back.svg" width=40></td>
         <td><img src="SVG/Rlogo.svg" width=40></td>
         <td><img src="SVG/icons8-matlab-96.svg" width=40></td>
     </tr>
