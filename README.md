@@ -2,8 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Kaushan+Script&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=George+Lopez" alt="Typing SVG" /></a>
 </div>
 
----
-
 <h2 align="center"> About Me </h2>
 
 <p align="center">
@@ -15,8 +13,6 @@ First-class mathematics graduate from the University of Nottingham.
 <p align="center">
     Eager to apply knowledge and skills to make an impact in the technology industry.
 </p>
-
----
 
 <h2 align="center"> Tech Stack </h2>
 
@@ -52,9 +48,6 @@ First-class mathematics graduate from the University of Nottingham.
     <img src="SVG/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png" alt="example badge" width = "40px">
     </a>    
 
-
-
----
 
 <h3 align="center" > Connect with me </h3>
 
