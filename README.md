@@ -2,7 +2,7 @@
 	<h3 align="center">
 		About Me
 	</h3>
-	<p align="center" style="color:blue;font-size:18px;">
+	<p align="center">
 	First-class mathematics graduate from the University of Nottingham.
 	</p>
 	<p align="center">
