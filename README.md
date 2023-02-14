@@ -28,7 +28,7 @@
         <td><img src="SVG/icons8-power-bi.svg" width=40></td>
         <td><img src="SVG/git-icon.svg" width=40></td>
         <td><img src="SVG/snowflake-icon.svg" width=40></td>
-        <td><img src="SVG/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png"
+        <td><img src="SVG/Rlogo.svg"
          width=40></td>
         <td><img src="SVG/favicon_base_3.png" width=40></td>
         <td><img src="SVG/icons8-tableau-software.svg" width=40></td>
