@@ -11,17 +11,17 @@
     <tr align="center">
         <td><img src="SVG/python.svg" width=40></td>
         <td><img src="SVG/postgresql.svg" width=40></td>
-        <td><img src="SVG/html-5.svg" width=40></td>
+        <td><img src="SVG/icons8-django.svg" width=40></td>
         <td><img src="SVG/icons8-flask-white-back.svg" width=40></td>
-        <td><img src="SVG/Rlogo.svg" width=40></td>
+        <td><img src="SVG/icons8-azure.svg" width=40></td>
         <td><img src="SVG/icons8-matlab-96.svg" width=40></td>
     </tr>
     <tr align="center">
         <td>Python</td>
         <td>PostgreSQL</td>
-        <td>HTML</td>
+        <td>Django</td>
         <td>Flask</td>
-        <td>R</td>
+        <td>Azure</td>
         <td>Matlab</td>
     </tr>
     <tr align="center">
@@ -37,7 +37,7 @@
         <td>Power BI</td>
         <td>Git</td>
         <td>Snowflake</td>
-        <td>MongoDB</td>
+        <td>R</td>
         <td>Neo4j</td>
         <td>Tableau</td>
     </tr>
