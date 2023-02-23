@@ -30,7 +30,7 @@
         <td><img src="SVG/snowflake-icon.svg" width=40></td>
         <td><img src="SVG/Rlogo.svg"
          width=40></td>
-        <td><img src="SVG/favicon_base_3.png" width=40></td>
+        <td><img src="SVG/icons8-docker.svg" width=40></td>
         <td><img src="SVG/icons8-tableau-software.svg" width=40></td>
     </tr>
     <tr align="center">
@@ -38,7 +38,7 @@
         <td>Git</td>
         <td>Snowflake</td>
         <td>R</td>
-        <td>Neo4j</td>
+        <td>Docker</td>
         <td>Tableau</td>
     </tr>
     </table>
