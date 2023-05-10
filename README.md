@@ -50,10 +50,7 @@
         <td><img src="SVG/icons8-flask-white-back.svg" width=40></td>
         <td><img src="SVG/icons8-django (2).svg" width=45></td>
     	<td><img src="SVG/icons8-react-native.svg" width=40></td>
-        <td><img src="SVG/icons8-flutter.svg" width=40></td>
-        
-	    
-	    
+	    <td><img src="SVG/icons8-flutter.svg" width=40></td> 
     </tr>
     <tr align="center">
         <td>Flask</td>
