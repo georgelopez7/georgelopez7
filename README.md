@@ -2,7 +2,7 @@
 	<h2 align="center">About Me </h2>
 	<p align="center">Full-Stack Software Engineer</p>
 	<p align="center">First-class mathematics graduate from the University of Nottingham.</p>
-	<a href= "https://georgelopez.co.uk/" align="center">https://georgelopez.co.uk/</a>
+	<a href= "https://georgelopez.co.uk/" align="center"><p>https://georgelopez.co.uk/</p></a>
 	
 </h1>
 
