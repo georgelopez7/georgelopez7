@@ -1,26 +1,32 @@
 <h1 align="center"> George Lopez </h1>
-	<h2 align="center">About Me </h2>
 	<p align="center">Full-Stack Software Engineer</p>
-	<p align="center">First-class mathematics graduate from the University of Nottingham.</p>
-	<a href= "https://georgelopez.co.uk/" align="center"><p>georgelopez.co.uk</p></a>
-	
+    <a href= "https://georgelopez.co.uk/" align="center"><p>georgelopez.co.uk</p></a>
 </h1>
 
-<h2 align="center"> Tech Stack </h2>
+<hr/>
 <!-- a -->
 <h2 align="center"> Programming Languages </h2>
 
 <div align="center">
     <table>
     <tr align="center">
-        <td><img src="SVG/python.svg" width=40></td>
-        <td><img src="SVG/postgresql.svg" width=40></td>
-        <td><img src="SVG/icons8-javascript.svg" width=40></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40/>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40/>
+          </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"  width=40/>
+          </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40/>
+          </td>
     </tr>
     <tr align="center">
-        <td>Python</td>
-        <td>PostgreSQL</td>
+        <td>Typescript</td>
         <td>JavaScript</td>
+        <td>Go</td>
+        <td>Python</td>
     </tr>
     </table>
 <!-- a -->
@@ -29,50 +35,48 @@
 <div align="center">
     <table>
     <tr align="center">
-        <td><img src="SVG/icons8-flask-white-back.svg" width=40></td>
-        <td><img src="SVG/icons8-django (2).svg" width=45></td>
-    	<td><img src="SVG/icons8-react-native.svg" width=40></td>
-	    <td><img src="SVG/icons8-flutter.svg" width=40></td> 
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width=40/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 style="background-color:white; padding:2; border-radius:24px" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="background-color:white; padding:4; border-radius:24px"  width=40/></td>
+    <td><img src="./expo.svg" style="background-color:white; padding:2; border-radius:4px" height=40 width=40/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="background-color:white; padding:2; border-radius:4px" width=40/></td>
     </tr>
     <tr align="center">
-        <td>Flask</td>
-        <td>Django</td>
         <td>React</td>
-        <td>Flutter</td>
+        <td>Next</td>
+        <td>React Native</td>
+        <td>Expo</td>
+        <td>Flask</td>
     </tr>
     </table>
 <!-- a -->
-<h2 align="center"> Tools / Platforms </h2>
+<h2 align="center"> Tools </h2>
 
 <div align="center">
     <table>
     <tr align="center">
-        <td><img src="SVG/icons8-azure.svg" width=40></td>
-        <td><img src="SVG/icons8-docker.svg" width=40></td>
-        <td><img src="SVG/git-icon.svg" width=40></td>
-        <td><img src="SVG/snowflake-icon.svg" width=40></td>
-        <td><img src="SVG/airflow-icon.svg" width=40></td>
+                 <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=40/>
+          </td>
+              <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40/>
+          </td> 
+             <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 />
+          </td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=40 />
+          </td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width=40 />
+          </td>
     </tr>
     <tr align="center">
-        <td>Azure</td>
-        <td>Docker</td>
+        <td>Postgres</td>
+        <td>Mongo</td>
         <td>Git</td>
-        <td>Snowflake</td>
-        <td>Airflow</td>
-    </tr>
-    <tr align="center">
-        <td colspan="1"></td>
-        <td><img src="SVG/alteryx-logo-1.svg" width=55></td>
-        <td><img src="SVG/icons8-power-bi.svg" width=40></td>
-        <td><img src="SVG/icons8-tableau-software.svg" width=40></td>
-        <td colspan="1"></td>
-    </tr>
-     <tr align="center">
-        <td colspan="1"></td>
-        <td>Alteryx</td>
-        <td>Power BI</td>
-        <td>Tableau</td>
-        <td colspan="1"></td>
+        <td>Docker</td>
+        <td>AWS</td>
     </tr>
     </table>
 
@@ -83,7 +87,8 @@
 
 <div align="center">
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/george-benjamin-lopez/">
-        <img src="SVG/icons8-linkedin.svg" width=50></a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40/>
+          </a>
 
 </div>
 </p>
