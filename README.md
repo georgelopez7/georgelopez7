@@ -15,30 +15,12 @@
     <tr align="center">
         <td><img src="SVG/python.svg" width=40></td>
         <td><img src="SVG/postgresql.svg" width=40></td>
-        <td><img src="SVG/icons8-html-5.svg" width=45></td>
-        <td><img src="SVG/icons8-css3.svg" width=45></td>
         <td><img src="SVG/icons8-javascript.svg" width=40></td>
     </tr>
     <tr align="center">
         <td>Python</td>
         <td>PostgreSQL</td>
-        <td>HTML</td>
-        <td>CSS</td>
         <td>JavaScript</td>
-    </tr>
-    <tr align="center">
-        <td colspan="1"></td>
-        <td><img src="SVG/Rlogo.svg" width=40></td>
-        <td><img src="SVG/icons8-matlab-96.svg" width=40></td>
-        <td><img src="SVG/icons8-dart.svg" width=40></td>
-        <td colspan="1"></td>
-    </tr>
-    <tr align="center">
-        <td colspan="1"></td>
-        <td>R</td>
-        <td>Matlab</td>
-        <td>Dart</td>
-        <td colspan="1"></td>
     </tr>
     </table>
 <!-- a -->
