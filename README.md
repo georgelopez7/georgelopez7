@@ -3,3 +3,5 @@
 <a href= "https://georgelopez.co.uk/" align="center"><p>georgelopez.co.uk</p></a>
 <br />
 <h2 align="center"> Projects </h2>
+<a href= "https://www.speakinsongs.com/" align="center"><p>speakinsongs.com</p></a>
+<a href= "https://www.aivspuzzles.com/" align="center"><p>aivspuzzles.com</p></a>
