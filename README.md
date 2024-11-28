@@ -10,24 +10,23 @@
   <tr>
     <td>
       <a href="https://www.speakinsongs.com/">
-        <img src="https://via.placeholder.com/150x150.png?text=Speakin+Songs" alt="Speakin Songs" width="150">
+        <img src="images/speakinsongs-logo.png" alt="Speak in Songs" width="150">
       </a>
     </td>
     <td>
-      <h3><a href="https://www.speakinsongs.com/">Speakin Songs</a></h3>
-      <p>An innovative platform that helps users learn languages through music. Explore lyrics, practice pronunciation, and enjoy language learning through songs.</p>
+      <h3><a href="https://www.speakinsongs.com/">Speak in Songs</a></h3>
+      <p>A SaaS web application that allows users to transform everyday conversations into Spotify playlists!</p>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.aivspuzzles.com/">
-        <img src="https://via.placeholder.com/150x150.png?text=AI+vs+Puzzles" alt="AI vs Puzzles" width="150">
+        <img src="images/aivspuzzles-logo.png" alt="AI vs Puzzles" width="150">
       </a>
     </td>
     <td>
       <h3><a href="https://www.aivspuzzles.com/">AI vs Puzzles</a></h3>
-      <p>Challenge artificial intelligence with mind-bending puzzles and games. Compete, learn, and explore the boundaries of AI capabilities.</p>
+      <p>A web application that puts Large Language Models to the test against a variety of puzzle games, such as NYT's Wordle & Connections</p>
     </td>
   </tr>
 </table>
-
