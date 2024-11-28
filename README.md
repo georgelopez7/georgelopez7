@@ -4,8 +4,6 @@
   <a href="https://georgelopez.co.uk/">🌐 georgelopez.co.uk</a>
 </p>
 
----
-
 <h2 align="center">🚀 Projects</h2>
 
 <table>
