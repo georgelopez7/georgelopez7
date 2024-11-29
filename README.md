@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>
-        <img src="images/speakinsongs-logo.png" alt="Speak in Songs" width="100">
+        <img src="images/speakinsongs-logo.png" target="_blank" alt="Speak in Songs" width="100">
     </td>
     <td>
       <a href="https://www.speakinsongs.com/"><strong>Speak in Songs</strong></a>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>
-      <img src="images/aivspuzzles-logo.png" alt="AI vs Puzzles" width="100">
+      <img src="images/aivspuzzles-logo.png" target="_blank" alt="AI vs Puzzles" width="100">
     </td>
     <td>
       <a href="https://www.aivspuzzles.com/"><strong>AI vs Puzzles</strong></a>
