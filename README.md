@@ -1,32 +1,53 @@
-<h1 align="center">George Lopez</h1>
-<p align="center"><strong>Software Engineer</strong></p>
-<p align="center">
-  <a href="https://georgelopez.co.uk/">🌐 georgelopez.co.uk</a>
+# **George Lopez**
+
+### _Software Engineer_, _Full Stack Developer_
+
+<p>
+  <a href="https://georgelopez.co.uk/"><strong>georgelopez.co.uk</strong></a>
 </p>
 
-<h2 align="center">🚀 Projects</h2>
+## Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypesScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![React Native (Expo)](<https://img.shields.io/badge/-React%20Native%20(Expo)-05122A?style=flat&logo=expo>)&nbsp;
+![Go](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
+![SQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+
+## Projects
 
 <table>
   <tr>
     <td>
-      <a href="https://www.speakinsongs.com/">
-        <img src="images/speakinsongs-logo.png" alt="Speak in Songs" width="150">
-      </a>
+        <img src="images/speakinsongs-logo.png" alt="Speak in Songs" width="100">
     </td>
     <td>
-      <h3><a href="https://www.speakinsongs.com/">Speak in Songs</a></h3>
-      <p>A SaaS web application that allows users to transform everyday conversations into Spotify playlists!</p>
+      <a href="https://www.speakinsongs.com/"><strong>Speak in Songs</strong></a>
+    </td>
+    <td>
+      A SaaS web application that allows users to transform everyday conversations into Spotify playlists!.
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.aivspuzzles.com/">
-        <img src="images/aivspuzzles-logo.png" alt="AI vs Puzzles" width="150">
-      </a>
+      <img src="images/aivspuzzles-logo.png" alt="AI vs Puzzles" width="100">
     </td>
     <td>
-      <h3><a href="https://www.aivspuzzles.com/">AI vs Puzzles</a></h3>
-      <p>A web application that puts Large Language Models to the test against a variety of puzzle games, such as NYT's Wordle & Connections</p>
+      <a href="https://www.aivspuzzles.com/"><strong>AI vs Puzzles</strong></a>
+    </td>
+    <td>
+      A web application that puts AI: Large Language Models to the test against a variety of puzzle games, such as, NYT's Wordle & Connections
     </td>
   </tr>
 </table>
