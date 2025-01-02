@@ -54,4 +54,15 @@
       A web application that puts AI: Large Language Models to the test against a variety of puzzle games, such as, NYT's Wordle & Connections
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="images/ohsit-logo.png" target="_blank" alt="Oh Sit!" width="100">
+    </td>
+    <td>
+      <a href="https://ohsit.vercel.app"><strong>OhSit!</strong></a>
+    </td>
+    <td>
+      An Internet of Things project designed to track how long a user sits in their chair. It integrates hardware and software, utilizing a Raspberry Pi and a force-sensitive resistor to detect when pressure is applied
+    </td>
+  </tr>
 </table>
