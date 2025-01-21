@@ -65,4 +65,15 @@
       An Internet of Things project designed to track how long a user sits in their chair. It integrates hardware and software, utilizing a Raspberry Pi and a force-sensitive resistor to detect when pressure is applied
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="images/geopass-logo.png" target="_blank" alt="Oh Sit!" width="100">
+    </td>
+    <td>
+      <a href="https://ohsit.vercel.app"><strong>geopass - CLI Password Generator!</strong></a>
+    </td>
+    <td>
+      geopass is a simple command-line tool for generating strong passwords. Written in Go, it provides users with the ability to quickly generate random, secure passwords directly from the terminal.
+    </td>
+  </tr>
 </table>
