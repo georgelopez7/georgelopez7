@@ -76,4 +76,15 @@
       geopass is a simple command-line tool for generating strong passwords. Written in Go, it provides users with the ability to quickly generate random, secure passwords directly from the terminal.
     </td>
   </tr>
+   <tr>
+    <td>
+      <img src="images/speakinsongs-api-logo.png" target="_blank" alt="Oh Sit!" width="100">
+    </td>
+    <td>
+      <a href="https://dev.speakinsongs.com/"><strong>Speak In Songs - API</strong></a>
+    </td>
+    <td>
+      Speak In Songs is a free API that allows you to turn your words into songs. Begin speaking to others through the titles of your favorite songs.
+    </td>
+  </tr>
 </table>
