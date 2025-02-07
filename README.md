@@ -87,4 +87,15 @@
       Speak In Songs is a free API that allows you to turn your words into songs. Begin speaking to others through the titles of your favorite songs.
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="images/whatdoyouknow-logo.png" target="_blank" alt="Oh Sit!" width="100">
+    </td>
+    <td>
+      <a href="https:whatdoyouknow.dev/"><strong>what do you know?</strong></a>
+    </td>
+    <td>
+      A real-time multiplayer quiz game. Players supply the topic and AI creates the questions.
+    </td>
+  </tr>
 </table>
