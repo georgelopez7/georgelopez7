@@ -32,18 +32,7 @@
 ## Projects
 
 <table>
-  <tr>
-    <td>
-        <img src="images/speakinsongs-logo.png" target="_blank" alt="Speak in Songs" width="100">
-    </td>
-    <td>
-      <a href="https://www.speakinsongs.com/"><strong>Speak in Songs</strong></a>
-    </td>
-    <td>
-      A SaaS web application that allows users to transform everyday conversations into Spotify playlists!.
-    </td>
-  </tr>
-  <tr>
+<tr>
     <td>
       <img src="images/aivspuzzles-logo.png" target="_blank" alt="AI vs Puzzles" width="100">
     </td>
@@ -52,6 +41,28 @@
     </td>
     <td>
       A web application that puts AI: Large Language Models to the test against a variety of puzzle games, such as, NYT's Wordle & Connections
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img src="images/speakinsongs-logo.png" target="_blank" alt="Speak in Songs" width="100">
+    </td>
+    <td>
+      <a href="https://www.speakinsongs.com/"><strong>Speak in Songs</strong></a>
+    </td>
+    <td>
+      Speak In Songs lets users convert everyday text into Spotify playlists. Each word is paired to a Spotify song allowing users to truly communicate through song.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/whatdoyouknow-logo.png" target="_blank" alt="Oh Sit!" width="100">
+    </td>
+    <td>
+      <a href="https:whatdoyouknow.dev/"><strong>what do you know?</strong></a>
+    </td>
+    <td>
+      A real-time multiplayer quiz game. Players supply the topic and AI creates the questions.
     </td>
   </tr>
   <tr>
@@ -74,28 +85,6 @@
     </td>
     <td>
       geopass is a simple command-line tool for generating strong passwords. Written in Go, it provides users with the ability to quickly generate random, secure passwords directly from the terminal.
-    </td>
-  </tr>
-   <tr>
-    <td>
-      <img src="images/speakinsongs-api-logo.png" target="_blank" alt="Oh Sit!" width="100">
-    </td>
-    <td>
-      <a href="https://dev.speakinsongs.com/"><strong>Speak In Songs - API</strong></a>
-    </td>
-    <td>
-      Speak In Songs is a free API that allows you to turn your words into songs. Begin speaking to others through the titles of your favorite songs.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="images/whatdoyouknow-logo.png" target="_blank" alt="Oh Sit!" width="100">
-    </td>
-    <td>
-      <a href="https:whatdoyouknow.dev/"><strong>what do you know?</strong></a>
-    </td>
-    <td>
-      A real-time multiplayer quiz game. Players supply the topic and AI creates the questions.
     </td>
   </tr>
 </table>
