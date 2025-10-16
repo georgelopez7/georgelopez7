@@ -34,9 +34,6 @@
 <table>
 <tr>
     <td>
-      <img src="images/aivspuzzles-logo.png" target="_blank" alt="AI vs Puzzles" width="100">
-    </td>
-    <td>
       <a href="https://www.aivspuzzles.com/"><strong>AI vs Puzzles</strong></a>
     </td>
     <td>
@@ -44,9 +41,6 @@
     </td>
   </tr>
   <tr>
-    <td>
-        <img src="images/speakinsongs-logo.png" target="_blank" alt="Speak in Songs" width="100">
-    </td>
     <td>
       <a href="https://www.speakinsongs.com/"><strong>Speak in Songs</strong></a>
     </td>
@@ -56,9 +50,6 @@
   </tr>
   <tr>
     <td>
-      <img src="images/whatdoyouknow-logo.png" target="_blank" alt="Oh Sit!" width="100">
-    </td>
-    <td>
       <a href="https:whatdoyouknow.dev/"><strong>what do you know?</strong></a>
     </td>
     <td>
@@ -67,9 +58,6 @@
   </tr>
   <tr>
     <td>
-      <img src="images/ohsit-logo.png" target="_blank" alt="Oh Sit!" width="100">
-    </td>
-    <td>
       <a href="https://ohsit.vercel.app"><strong>OhSit!</strong></a>
     </td>
     <td>
@@ -77,9 +65,6 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="images/geopass-logo.png" target="_blank" alt="Oh Sit!" width="100">
-    </td>
     <td>
       <a href="https://github.com/georgelopez7/geopass-cli"><strong>geopass - CLI Password Generator!</strong></a>
     </td>
