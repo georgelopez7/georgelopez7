@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https:whatdoyouknow.dev/"><strong>what do you know?</strong></a>
+      <a href="https://whatdoyouknow.dev/"><strong>What Do You Know?</strong></a>
     </td>
     <td>
       A real-time multiplayer quiz game. Players supply the topic and AI creates the questions.
