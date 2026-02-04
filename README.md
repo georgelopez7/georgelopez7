@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.speakinsongs.com/"><strong>Speak in Songs</strong></a>
+      <a href="https://speakinsongs.com/"><strong>Speak in Songs</strong></a>
     </td>
     <td>
       Speak In Songs lets users convert everyday text into Spotify playlists. Each word is paired to a Spotify song allowing users to truly communicate through song.
