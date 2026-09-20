@@ -1,6 +1,6 @@
 # **George Lopez**
 
-### _Software Engineer_, _Full Stack Developer_
+### _Software Engineer_
 
 <p>
   <a href="https://georgelopez.co.uk/"><strong>georgelopez.co.uk</strong></a>
@@ -34,10 +34,10 @@
 <table>
 <tr>
     <td>
-      <a href="https://www.aivspuzzles.com/"><strong>AI vs Puzzles</strong></a>
+      <a href="https://puzzle-bench.com/"><strong>Puzzle Bench</strong></a>
     </td>
     <td>
-      A web application that puts AI: Large Language Models to the test against a variety of puzzle games, such as, NYT's Wordle & Connections
+      An LLM benchmark to tests LLMs against your favourite puzzles.
     </td>
   </tr>
   <tr>
@@ -46,30 +46,6 @@
     </td>
     <td>
       Speak In Songs lets users convert everyday text into Spotify playlists. Each word is paired to a Spotify song allowing users to truly communicate through song.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://whatdoyouknow.dev/"><strong>What Do You Know?</strong></a>
-    </td>
-    <td>
-      A real-time multiplayer quiz game. Players supply the topic and AI creates the questions.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://ohsit.vercel.app"><strong>OhSit!</strong></a>
-    </td>
-    <td>
-      An Internet of Things project designed to track how long a user sits in their chair. It integrates hardware and software, utilizing a Raspberry Pi and a force-sensitive resistor to detect when pressure is applied
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/georgelopez7/geopass-cli"><strong>geopass - CLI Password Generator</strong></a>
-    </td>
-    <td>
-      geopass is a simple command-line tool for generating strong passwords. Written in Go, it provides users with the ability to quickly generate random, secure passwords directly from the terminal.
     </td>
   </tr>
 </table>
